@@ -5,7 +5,7 @@ user: root, password: 123
 
 v1.3
 Minor change
-Added link to "Show Hamclock"
+Added link to "Show Hamclock", which opens a new tab with Hamclock when it's running
 
 v1.2
 Based on R1CBU v0.31.2 Franco Venturi version
